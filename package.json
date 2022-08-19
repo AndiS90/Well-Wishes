@@ -1,8 +1,8 @@
 {
-  "name": "portfolio-with-react",
+  "name": "well-wishes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AndiS90.github.io/portfolio-with-react",
+  "homepage": "https://AndiS90.github.io/well-wishes",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
@@ -48,6 +48,10 @@
     ]
   },
   "react-dotenv": {
-    "whitelist": ["SERVICE_ID","TEMPLATE_ID","USER_ID"]
+    "whitelist": [
+      "SERVICE_ID",
+      "TEMPLATE_ID",
+      "USER_ID"
+    ]
   }
 }
